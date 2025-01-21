@@ -1,4 +1,5 @@
 # Cohort Analysis for Subscribers
+![image](https://github.com/user-attachments/assets/faccf409-781f-4ce5-830b-c829a657edbe)
 
 ## Project Overview
 This project focuses on performing a cohort analysis to track the retention and churn rates of subscribers over a period of several weeks. The goal is to gain insights into subscriber behavior, identify patterns in retention, and understand when churn is most likely to occur. By analyzing these trends, strategies can be developed to improve customer retention and reduce churn.
